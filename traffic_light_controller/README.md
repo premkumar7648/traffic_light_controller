@@ -94,4 +94,4 @@ Digital Design | Verilog HDL
 
 ---
 
-⭐ If you find this project useful, feel free to explore or contribute.
+If you find this project useful, feel free to explore or contribute.
