@@ -73,11 +73,7 @@ The design was verified using a Verilog testbench in AMD Xilinx Vivado.
 
 The testbench generates the clock signal and observes the state transitions and corresponding traffic light outputs to verify the expected sequence.
 
-### Expected Simulation Sequence
 
-```text
-INIT → GREEN → YELLOW → RED → GREEN → ...
-```
 
 ## Future Improvements
 - Programmable timing intervals for each light
