@@ -1,4 +1,4 @@
-# 🚦 Verilog Traffic Light Controller
+#  Verilog Traffic Light Controller
 
 ## Overview
 A digital traffic light controller implemented using **Verilog HDL** and a **Finite State Machine (FSM)**. The controller cycles through initialization, green, yellow, and red states, controlling the corresponding traffic light outputs based on the current state and clock-driven transitions.
