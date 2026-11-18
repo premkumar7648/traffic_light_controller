@@ -85,7 +85,7 @@ The testbench generates the clock signal and observes the state transitions and 
 - FPGA hardware implementation
 
 ## Author
-**ECE Student**  
+**Prem Kumar ECE Student**  
 Digital Design | Verilog HDL
 
 ---
